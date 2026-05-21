@@ -1,2 +1,1 @@
-Texto desde main
-
+Texto combinado de main y desarrollo
