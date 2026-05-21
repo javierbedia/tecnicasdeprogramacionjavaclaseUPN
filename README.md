@@ -1,2 +1,2 @@
-Mi proyecto Java version desarrollo
+Texto desde main
 
