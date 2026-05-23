@@ -1,1 +1,2 @@
-Texto combinado de main y desarrollo
+contenido de main
+contenido de desarrollo
