@@ -20,7 +20,7 @@ public class Calculadora {
 
         double resultado = calcular(num1, num2, op);
 
-        System.out.println("Resultado: " + resultado);
+        System.out.println("Resultado:: " + resultado);
 
         sc.close();
     }
